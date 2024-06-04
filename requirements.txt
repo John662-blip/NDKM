@@ -1,0 +1,7 @@
+flet
+opencv-python
+pyodbc
+opencv-contrib-python==4.9.0.80
+openpyxl
+pillow
+pandas
